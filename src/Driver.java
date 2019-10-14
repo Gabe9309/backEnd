@@ -7,6 +7,7 @@ public class Driver {
 
 	public static void main(String[] args) {
 		
+		//Testing purpose only
 		try {
 			Download_PDF download = new Download_PDF();
 			Extract_PDF2 extract = new Extract_PDF2();
